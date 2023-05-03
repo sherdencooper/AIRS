@@ -29,7 +29,7 @@ Use generate_explain.py to generate the explanation for the trajectories.
 
 # Fidelity test
 
-Run fidelity_test.py to test the fidelity of the explanation.
+Run run_fidelity.sh to test the fidelity of the explanation.
 
 # Utility
 
