@@ -33,4 +33,4 @@ Run run_fidelity.sh to test the fidelity of the explanation.
 
 # Utility
 
-Run dagger_retrain.py to retrain the target model with the explanation.
+Run dagger_retrain.py to retrain the target model with the explanation and dagger_evaluate.py to evaluate the retrained model.
